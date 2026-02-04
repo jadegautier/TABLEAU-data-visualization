@@ -16,4 +16,7 @@ Each project is documented with objectives, datasets, visual design choices, and
 - Data Visualization & Storytelling  
 - Exploratory Data Analysis  
 - Time Series Analysis  
-- Geospatial Mapping  
+- Geospatial Mapping
+
+## Files
+- `assignment 1.twbx` — Tableau packaged workbook containing all dashboards created for this assignment
