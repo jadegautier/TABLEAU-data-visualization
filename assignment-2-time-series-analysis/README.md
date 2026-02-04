@@ -1,7 +1,7 @@
 ## Assignment 2 – Time Series Visualization in Tableau
 
 **Course Context**  
-Graduate-level Data Visualization course, Columbia University (SPS).
+Graduate-level Data Visualization course, Columbia University.
 
 ### Objective
 Build a Tableau dashboard to visualize **year-to-date (YTD) price and trading volume trends** for the *Magnificent 7* U.S. technology companies.
