@@ -7,7 +7,7 @@ Due to Tableau Public access limitations, interactive dashboards are not embedde
 Each project is documented with objectives, datasets, visual design choices, and key insights.
 
 ## Projects
-- **Assignment 1:** Data & Chart Types  
+- **Assignment 1:** Data & Chart Types 
 - **Assignment 2:** Time Series Visualization (Magnificent 7 stocks)  
 - **Assignment 3:** Geographic Mapping & Spatial Analysis  
 
