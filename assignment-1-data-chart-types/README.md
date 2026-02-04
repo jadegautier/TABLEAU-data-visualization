@@ -1,7 +1,7 @@
 # Assignment 1 – Data & Chart Types (Tableau)
 
 ## Context
-This project was completed as part of a graduate-level data visualization course at **Columbia University (SPS)**.
+This project was completed as part of a graduate-level data visualization course at **Columbia University**.
 
 ## Objective
 Explore how different chart types can be used to effectively communicate insights from company-level data using Tableau.
